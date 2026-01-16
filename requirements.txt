@@ -1,0 +1,4 @@
+pyttsx3==2.91  # Text-to-speech engine
+playsound==1.2.2  # Optional playback support
+pydub==0.25.1  # Optional audio processing (for playback)
+simpleaudio==1.0.0  # Optional audio playback
